@@ -3,9 +3,9 @@
 <img src="https://wsrv.nl/?url=https://github.com/MendingTuruu.png?size=500&w=300&h=300&fit=cover&mask=circle" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 
 </p>
-<h1 align="center">Taylor</h1>
+<h1 align="center">KilluaMD</h1>
 <p align="center">
-  <a href="https://github.com/MendingTuru/KILLUA-ZOLDYCK"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Killua+Pangeran+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Pangeran;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/MendingTuru/KilluaMD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Killua+Pangeran+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Pangeran;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
@@ -148,8 +148,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/MendingTuruu/KILLUA-ZOLDYCK/
-cd KILLUA-ZOLDYCK
+git clone https://github.com/MendingTuruu/KilluaMD/
+cd KilluaMD
 npm install
 npm update
 ```
@@ -242,7 +242,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ## ```Thanks to ✨```
 * [`Allah SWT`](https://github.com/MendingTuruu/KilluaMD)
 * [`My parents`](https://github.com/MendingTuruu/KilluaMD)
-* [`All Friends`](https://github.com/MendingTuruu/KILLUA-ZOLDYCK
+* [`All Friends`](https://github.com/MendingTuruu/KilluaMD)
 * [`All Contributors`](https://github.com/MendingTuruu/KilluaMD)
 * [`All Creator Bot`](https://github.com/MendingTuruu/KilluaMD)
 
