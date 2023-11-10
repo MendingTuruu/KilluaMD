@@ -1,7 +1,7 @@
 {
     "name": "Killua-Zoldyck",
     "version": "^5.5.0",
-    "description": "Simple Whatsapp Bot",
+    "description": "Simple Whatsapp Bot By Pangeran",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -24,16 +24,16 @@
         "whatsapp",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/MendingTuru",
+    "homepage": "https://github.com/MendingTuruu/KilluaMD",
     "author": {
         "name": "Pangeran"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Zeltoria/Clara-MD.git"
+        "url": "git+https://github.com/MendingTuruu/KilluaMD.git"
     },
     "bugs": {
-        "url": "https://github.com/Zeltoria/Clara-MD/issues"
+        "url": "https://github.com/MendingTuruu/KilluaMD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
