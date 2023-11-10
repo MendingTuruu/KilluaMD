@@ -65,9 +65,9 @@ global.giflogo = VideoGalau()
 global.ephemeral = '86400' // 86400 = 24jam, kalo ingin di hilangkan ganti '86400' jadi 'null' atau ''
 global.multiplier = 69 
 // Apikey
-global.lol = 'rara'
-global.rose = 'Rk-KayzAzzah'
-global.xyro = 'ClaraKeyOfficial'
+global.lol = 'your apikey'
+global.rose = 'your apikey'
+global.xyro = 'your apikey'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -80,7 +80,7 @@ global.APIs = {
 }
 /*Apikey*/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "ClaraKeyOfficial",
+    "https://api.xyroinee.xyz": "your apikey",
 }
 
 let file = fileURLToPath(import.meta.url)
