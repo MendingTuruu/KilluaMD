@@ -9,19 +9,19 @@
 </p>
 
 <p align="center">
- <a href="#"><img title="Taylor" src="https://img.shields.io/badge/Killua-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="KilluaMD" src="https://img.shields.io/badge/Killua-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-Pangeran-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/AyGemuy/Taylor/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MendingTuruu/KILLUA-ZOLDYCK?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/Taylor/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/MendingTuruu/KILLUA-ZOLDYCK?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/Taylor/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/MendingTuruu/KILLUA-ZOLDYCK?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/Taylor/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/MendingTuruu/KILLUA-ZOLDYCK?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/Taylor/issues"><img title="Issues" src="https://img.shields.io/github/issues/MendingTuruu/KILLUA-ZOLDYCK?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/Taylor/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/MendingTuruu/KILLUA-ZOLDYCK?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/Taylor/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/MendingTuruu/KILLUA-ZOLDYCK?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/Taylor/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/MendingTuruu/KILLUA-ZOLDYCK?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/MendingTuruu/KilluaMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MendingTuruu/KilluaMD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/MendingTuruu/KilluaMD/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/MendingTuruu/KilluaMD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/MendingTuruu/KilluaMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/MendingTuruu/KilluaMD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/MendingTuruu/KilluaMD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/MendingTuruu/KilluaMD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/MendingTuruu/KilluaMD/issues"><img title="Issues" src="https://img.shields.io/github/issues/MendingTuruu/KilluaMD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/MendingTuruu/KilluaMD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/MendingTuruu/KilluaMD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/MendingTuruu/KilluaMD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/MendingTuruu/KilluaMD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/MendingTuruu/KilluaMD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/MendingTuruu/KilluaMD?label=PullRequest&color=red&style=flat-square"></a>
 
 ## ```Whatsapp``` <a href="https://wa.me/6285934362661">
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62859343626616) 
@@ -32,34 +32,34 @@
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **No Internet** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Simple** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Multi Device** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
+| **Fast Respon** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **No Internet** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Simple** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Multi Device** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Internet** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Game Rpg** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Nsfw** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
+| **Downloader** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Internet** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Game Rpg** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Nsfw** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
 | **Sticker** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Game** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Kerang Ajaib** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Quotes** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Anime** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Premium** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Tools** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **Exec** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
-| **React** |[✔️](https://github.com/MendingTuruu/KILLUA-ZOLDYCK) |
+| **Game** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Kerang Ajaib** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Quotes** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Anime** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Premium** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Tools** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **Exec** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
+| **React** |[✔️](https://github.com/MendingTuruu/KilluaMD) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/MendingTuruu/KILLUA-ZOLDYCK/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L13C17-L13C17)
-- Owner Name [Here](https://github.com/MendingTuruu/KILLUA-ZOLDYCK/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L60)
-- Bot Name [Here](https://github.com/MendingTuruu/KILLUA-ZOLDYCK/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L59)
+- Owner Number [Here](https://github.com/MendingTuruu/KilluaMD/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L13C17-L13C17)
+- Owner Name [Here](https://github.com/MendingTuruu/KilluaMD/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L60)
+- Bot Name [Here](https://github.com/MendingTuruu/KilluaMD/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L59)
 ---------
 
 ## ```Heroku Buildpack```
@@ -81,8 +81,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/MendingTuruu/KILLUA-ZOLDYCK/
-$ cd KILLUA-ZOLDYCK
+$ git clone https://github.com/MendingTuruu/KilluaMD/
+$ cd KilluaMD
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -126,14 +126,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & Taylor]
+[ INSTALLING NODEJS & KilluaMD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/MendingTuruu/KILLUA-ZOLDYCK/
-cd KILLUA-ZOLDYCK
+git clone https://github.com/MendingTuruu/KilluaMD/
+cd KilluaMD
 npm install
 npm update
 ```
@@ -240,11 +240,11 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/MendingTuruu/KILLUA-ZOLDYCK)
-* [`My parents`](https://github.com/MendingTuruu/KILLUA-ZOLDYCK)
+* [`Allah SWT`](https://github.com/MendingTuruu/KilluaMD)
+* [`My parents`](https://github.com/MendingTuruu/KilluaMD)
 * [`All Friends`](https://github.com/MendingTuruu/KILLUA-ZOLDYCK
-* [`All Contributors`](https://github.com/MendingTuruu/KILLUA-ZOLDYCK)
-* [`All Creator Bot`](https://github.com/MendingTuruu/KILLUA-ZOLDYCK)
+* [`All Contributors`](https://github.com/MendingTuruu/KilluaMD)
+* [`All Creator Bot`](https://github.com/MendingTuruu/KilluaMD)
 
 ## ```Recode By 💌```
 [![Taylor](https://wsrv.nl/?url=https://github.com/MendingTuruu.png?size=100&mask=circle)](https://github.com/MendingTuruu)
