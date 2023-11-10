@@ -1,0 +1,23 @@
+{
+  "name": "Whatsapp Bot by Pangeran",
+  "description": "Whatsapp Make Your Job Easy",
+  "keywords": [
+    "whatsapp bot",
+    "nodejs"
+  ],
+  "repository": "https://github.com/MendingTuruu/KILLUA-ZOLDYCK",
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
